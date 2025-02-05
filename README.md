@@ -23,13 +23,13 @@ This report offers a comprehensive analysis of fire incidents, examining key asp
 ![Screenshot 2024-10-07 162329](https://github.com/user-attachments/assets/fcc279ff-dd07-472a-9c3b-85a16564236c)
 
 
-1. The Toronto Centre fire station responded to the highest number of incidents, totaling 1,381, accounting for 5.4% of total incidents.
+1. The Toronto Centre Fire Station responded to the highest number of incidents, totalling 1,381, accounting for 5.4% of total incidents.
 2. The station with the highest median response time was Scarborough-Rouge Park, recording a time of 380.86 seconds. Across all stations, the overall median response time was 306 seconds, just under the NFPA standard benchmark of 320 seconds. Stations exceeding this benchmark warrant closer investigation, particularly into the nature of the fires (source, property types).
 3. Scarborough-Agincourt recorded the longest average time to control a fire, at 825 seconds, compared to the overall average of 635.45 seconds across all stations. 
 4. Notably, 55.27% of incidents were resolved by extinguishing the fire upon arrival.
 5. York South-Weston reported the highest total estimated losses, amounting to $76 million.
 
-### Fire Incidents OVerview - Toronto Center FireStation
+### Fire Incidents Overview - Toronto Center FireStation
 
 ![Screenshot 2024-10-07 163027](https://github.com/user-attachments/assets/accade7f-f134-4e50-8dde-ffe45f0d3ba6)
 
